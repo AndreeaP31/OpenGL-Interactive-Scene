@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(57,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(78,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(178,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(179,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(243,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(333,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(336,39): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\fac\an 3\PG\laburi\OpenGLproject8\main.cpp(514,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 1798 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLproject8.vcxproj -> C:\fac\an 3\PG\laburi\OpenGLproject8\x64\Release\OpenGLproject8.exe
